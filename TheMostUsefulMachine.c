@@ -4,7 +4,6 @@
 
 /*
 Gerald Rosa
-ID:00323645
 Project 1 the most useful machine
 ========================================================================
 This programs allows the user to perform various mathematical operations.
